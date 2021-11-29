@@ -8,4 +8,10 @@ The purpose of this analysis is to provide a web application that will scrape ne
 - Software: Jupyter Notebook: 6.3.0, Visual Studio Code 1.60.2, MongoDB 5.0, Flask 2.0.2
 
 ## Results
-Provided the link to my web application, any user should be able to find the most recent news regarding the red planet next door. Additionally, my website scrapes from other news sources on Mars and provides information about the planet in a table. Next to a Mars column is an Earth column, with information about both printed next to one another for a quick comparison. Finally, I have included images from NASA websites and various other webistes of images taken in outer space. Not only is this web application visible and usable on desktop, but it is also on mobile devices as well.
+Provided the link to my web application, any user should be able to find the most recent news regarding the red planet next door. Additionally, my website scrapes from other news sources on Mars and provides information about the planet in a table. Next to a Mars column is an Earth column, with information about both printed next to one another for a quick comparison. 
+
+![Desktop View of the Mission to Mars Site](Resources/desktop_display.png)
+
+Finally, I have included images from NASA websites and various other webistes of images taken in outer space. Not only is this web application visible and usable on desktop, but it is also on mobile devices as well.
+
+![Mobile View of Web Application](Resources/mobile_display.png)
