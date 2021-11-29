@@ -16,6 +16,6 @@ Not only is this web application visible and usable on desktop, but it is tailor
 
 ![Mobile View of Web Application](Resources/mobile_display.png)
 
-Finally, I have included images from NASA and various other websites of pictures taken in outer space. 
+Finally, I have included images from NASA and various other websites taken in outer space. 
 
 ![Hemispheres of Mars](Resources/hemispheres.png)
