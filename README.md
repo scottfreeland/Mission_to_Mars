@@ -16,6 +16,6 @@ Additionally, I have included images from NASA websites and various other webist
 
 ![Hemispheres of Mars](Resources/hemispheres.png)
 
-Finally, not only is this web application visible and usable on desktop, but it is tailored for mobile devices, as well.
+Finally, not only is this web application visible and usable on desktop, but it is tailored for mobile devices, as well. The image below is a screenshot from a mobile phone's point of view.
 
 ![Mobile View of Web Application](Resources/mobile_display.png)
